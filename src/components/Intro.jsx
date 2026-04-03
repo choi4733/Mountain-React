@@ -17,7 +17,7 @@ const Intro = () => {
         </div>
         <div className="intro_text">
           <div className="text">
-            {introText.decs.map((item, key) => (
+            {introText.desc.map((item, key) => (
               <div key={key}>{item}</div>
             ))}
           </div>
