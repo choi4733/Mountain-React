@@ -1,5 +1,5 @@
 import React from "react";
-import Skip from "../components/skip";
+import Skip from "../components/Skip";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Intro from "../components/Intro";
